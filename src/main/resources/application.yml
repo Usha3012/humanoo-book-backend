@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: humanoo_book_backend-test
+  datasource:
+    url: jdbc:postgresql://db:5432/backend_db
+    password: password
+    username: admin
+    driver-class-name: org.postgresql.Driver
+
